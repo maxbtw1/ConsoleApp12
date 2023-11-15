@@ -3,4 +3,4 @@ Console.WriteLine("Hello, World!");
 int a;
 Console.WriteLine("btw");
 int a;
-int b;
+int t;
